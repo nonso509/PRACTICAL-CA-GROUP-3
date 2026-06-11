@@ -21,7 +21,7 @@ nav{
 }
 
 .logo img{
-    width:50px;
+    width:80px;
 }
 
 nav ul{
@@ -66,6 +66,12 @@ nav ul li a{
 
 .right{
     width:40%;
+}
+
+.right img{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
 }
 
 .right button{
